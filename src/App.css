@@ -1,0 +1,30 @@
+body {
+  background-image: linear-gradient(to right,rgb(0, 247, 255),green);
+}
+
+.App{
+  /* text-align: center; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.CalcWrapper{
+  background-color: white;
+  width: 400px;
+  border-radius: 16px;
+}
+
+.top-bar{
+  height: 2.3em;
+  background-image: linear-gradient(to right,#03133d,#172d67);
+}
+
+.White-circle{
+  height: 1em;
+  width: 1em;
+  border-radius: 50%;
+  background-color: white;
+  margin: 0.5em;
+  display: inline-block;
+}
