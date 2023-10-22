@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mern_react_task2_calculator/static/css/main.ec71d8bb.css",
+    "main.js": "/mern_react_task2_calculator/static/js/main.ab3fd820.js",
+    "static/js/787.c0148a3b.chunk.js": "/mern_react_task2_calculator/static/js/787.c0148a3b.chunk.js",
+    "index.html": "/mern_react_task2_calculator/index.html",
+    "main.ec71d8bb.css.map": "/mern_react_task2_calculator/static/css/main.ec71d8bb.css.map",
+    "main.ab3fd820.js.map": "/mern_react_task2_calculator/static/js/main.ab3fd820.js.map",
+    "787.c0148a3b.chunk.js.map": "/mern_react_task2_calculator/static/js/787.c0148a3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec71d8bb.css",
+    "static/js/main.ab3fd820.js"
+  ]
+}
